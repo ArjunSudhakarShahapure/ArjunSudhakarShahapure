@@ -1,6 +1,40 @@
- Passionate and creative UI/UX Designer with a solid foundation in user-centered design, graphic design,
- and front-end development. Proficient in tools like Figma, Adobe XD, and HTML/CSS. Known for crafting
- intuitive and responsive interfaces that enhance user experience. Driven by a deep curiosity and
- eagerness to learn—not just within the UI/UX and graphic design space, but across all domains of
- development. Always excited to explore new technologies, solve real-world problems, and grow through
- collaborative, hands-on challenges in dynamic, design-forward environments.
+<h1 align="center">Hi 👋, I'm Arjun Shahapure</h1>
+<h3 align="center">A passionate UI/UX and Python Developer</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arjunsudhakarshahapure&label=Profile%20views&color=0e75b6&style=flat" alt="arjunsudhakarshahapure" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arjunsudhakarshahapure" alt="arjunsudhakarshahapure" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 🔭 I’m currently working on [Python Projects](will-be-updated-soon)
+
+- 🌱 I’m currently learning **Python and Machine Learning**
+
+- 👯 I’m looking to collaborate on [with Python projects](will-be-updated-soon)
+
+- 🤝 I’m looking for help with [Job profile in PYTHON DEV.](will-be-updated-soon)
+
+- 👨‍💻 All of my projects are available at [https://arjunshahapure.netlify.app/](https://arjunshahapure.netlify.app/)
+
+- 💬 Ask me about **UI/UX**
+
+- 📫 How to reach me **arjunshahapure.s@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1U4s7m7yGV08xZyYNrW2EiyW9CveZkwW6/view?usp=sharing](https://drive.google.com/file/d/1U4s7m7yGV08xZyYNrW2EiyW9CveZkwW6/view?usp=sharing)
+
+- ⚡ Fun fact **I can guess lies**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/ayee_arjyaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayee_arjyaa" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arjunsudhakarshahapure&show_icons=true&locale=en&layout=compact" alt="arjunsudhakarshahapure" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arjunsudhakarshahapure&show_icons=true&locale=en" alt="arjunsudhakarshahapure" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arjunsudhakarshahapure&" alt="arjunsudhakarshahapure" /></p>
