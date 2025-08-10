@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **arjunshahapure.s@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1U4s7m7yGV08xZyYNrW2EiyW9CveZkwW6/view?usp=sharing](https://drive.google.com/file/d/1U4s7m7yGV08xZyYNrW2EiyW9CveZkwW6/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1U4s7m7yGV08xZyYNrW2EiyW9CveZkwW6/view?usp=sharing)
 
 - ⚡ Fun fact **I can guess lies**
 
